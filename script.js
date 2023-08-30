@@ -50,3 +50,5 @@ document.querySelector("#pbtm").addEventListener("click", function (clicked) {
 runTimer();
 makeBubble();
 getNewHit();
+
+//code updating by satish
